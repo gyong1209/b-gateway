@@ -255,7 +255,7 @@ Bike 프로젝트의 사이드카 적용
 4. 적용 후 Siege 과부하 - 90퍼센트 이상 가용성
 ![적용후시즈화면](https://user-images.githubusercontent.com/25577890/91828430-16732980-ec7b-11ea-9c7f-1ecf1a221a29.PNG)
 
-
+  
 ### 무정지 재배포
 모든 프로젝트의 readiness probe 및 liveness probe 설정 완료
 ![readiness](https://user-images.githubusercontent.com/25577890/91814248-cd1cdd00-ec6e-11ea-894e-4f7790e5dbdb.png)
