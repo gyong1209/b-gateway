@@ -59,7 +59,7 @@ https://github.com/JuneBeomKim/b-gateway
 1. 성능
     1. 고객이 마이페이지를 통해 렌트한 자전거, 바우처정보, 개인정보를 조회할 수 있다.  CQRS
 
-
+  
 # 체크포인트
 
 - 분석 설계
